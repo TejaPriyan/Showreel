@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://tejapriyan.github.io/Showreel/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Video 1: Swiss Kinetic Motion Design Showreel -->
+    <video:video>
+      <video:thumbnail_loc>https://raw.githubusercontent.com/TejaPriyan/Showreel/main/public/favicon.svg</video:thumbnail_loc>
+      <video:title>TEJA PRIYAN — Swiss Kinetic Motion Design Showreel</video:title>
+      <video:description>An authentic recreation and expansion of the Claude Opus 5.5 Max Effort Motion Graphics Showreel. 8 chapters of kinetic typography, easing physics, 3D wave matrix, and geometric morphs.</video:description>
+      <video:content_loc>https://raw.githubusercontent.com/TejaPriyan/Showreel/main/public/teja-priyan-9-16-10s.mp4</video:content_loc>
+      <video:player_loc>https://tejapriyan.github.io/Showreel/?reel=swiss</video:player_loc>
+      <video:duration>30</video:duration>
+      <video:publication_date>2026-09-28T09:00:00+05:30</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:tag>Motion Design</video:tag>
+      <video:tag>Swiss Kinetic</video:tag>
+      <video:tag>Claude Opus</video:tag>
+      <video:tag>WebGL</video:tag>
+      <video:tag>Three.js</video:tag>
+      <video:tag>Teja Priyan</video:tag>
+    </video:video>
+
+    <!-- Video 2: Neon Pulse Cyberpunk Glitch Showreel -->
+    <video:video>
+      <video:thumbnail_loc>https://raw.githubusercontent.com/TejaPriyan/Showreel/main/public/favicon.svg</video:thumbnail_loc>
+      <video:title>TEJA PRIYAN — Neon Pulse Cyberpunk Motion Design Reel</video:title>
+      <video:description>A high-energy cyberpunk glitch motion graphics video with matrix rain data streams, chromatic RGB split slams, circular radar telemetry HUD, and 3D wireframe perspective horizons.</video:description>
+      <video:player_loc>https://tejapriyan.github.io/Showreel/?reel=neon</video:player_loc>
+      <video:duration>30</video:duration>
+      <video:publication_date>2026-09-28T09:00:00+05:30</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:tag>Cyberpunk</video:tag>
+      <video:tag>Neon Pulse</video:tag>
+      <video:tag>Glitch Art</video:tag>
+      <video:tag>3D Spatial Design</video:tag>
+      <video:tag>Code-driven Motion</video:tag>
+    </video:video>
+  </url>
+</urlset>

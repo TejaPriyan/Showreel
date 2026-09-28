@@ -1,0 +1,17 @@
+{
+  "name": "TEJA PRIYAN — Showreel Studio",
+  "short_name": "Showreel Studio",
+  "description": "Production-grade interactive motion design platform featuring dual showreels, real-time WebGL, and custom video export.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#05060a",
+  "theme_color": "#05060a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='46' fill='%2305060a'/><circle cx='50' cy='50' r='24' fill='%23ff441f'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

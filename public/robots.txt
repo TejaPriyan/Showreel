@@ -1,0 +1,36 @@
+# ============================================================
+# Robots.txt for Showreel Studio (Teja Priyan)
+# Optimized for Search Engines (SEO), AI Search & Answer Engines (GEO/AEO)
+# ============================================================
+
+User-agent: *
+Allow: /
+Crawl-delay: 1
+
+# Welcome AI & LLM Search Crawlers (Generative Engine Optimization)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+# Sitemap Location
+Sitemap: https://tejapriyan.github.io/Showreel/sitemap.xml
