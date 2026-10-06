@@ -96,6 +96,19 @@ export default function HeaderNav({
           <span>Customize</span>
         </button>
 
+        {/* Buy Me a Pizza Support */}
+        <a
+          href="https://www.buymeacoffee.com/TejaPriyan"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="header-nav-btn pizza-btn"
+          title="🍕 Buy me a pizza"
+          style={{ textDecoration: 'none', borderColor: 'rgba(245, 158, 11, 0.4)', color: '#fbbf24', background: 'rgba(245, 158, 11, 0.12)' }}
+        >
+          <span>🍕</span>
+          <span>Pizza</span>
+        </a>
+
         {/* Instant Video Export */}
         <button
           className="header-nav-btn export-hero-btn"
