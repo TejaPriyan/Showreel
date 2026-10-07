@@ -8,6 +8,7 @@ import { viteSingleFile } from 'vite-plugin-singlefile';
 //    self-contained dist/index.html (handy for sharing a single preview file
 //    or dropping into an <iframe>/webview with zero server config).
 export default defineConfig(({ mode }) => ({
+  base: './',
   plugins: [
     react(),
     ...(mode === 'singlefile' ? [viteSingleFile()] : []),
